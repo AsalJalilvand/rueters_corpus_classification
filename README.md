@@ -1,6 +1,8 @@
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1mzWNacITgIOnYdtAWhLOqaesZfbJB6k3?usp=sharing)
 
-### Final Project for CSCI 6515: Machine Learning for Big Data 
+### Final Project for CSCI 6515: Machine Learning for Big Data
+<b>Dalhousie University, Fall 2019</b>
+
 
 For this project, we were asked to the following steps using the Reuters news corpus:
 1. Cluster the documents
